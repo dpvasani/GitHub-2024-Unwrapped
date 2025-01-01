@@ -48,6 +48,11 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Divider"/><br>
 
-# 📊 GitHub 2024 Rocks:
+# 📊 GitHub 2024 Rocks :
+<!-- Embed Video Here -->
+
+
+https://github.com/user-attachments/assets/0ff487eb-2c8a-4179-92ea-af8293e5e32a
+
 
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Divider"/><br>
