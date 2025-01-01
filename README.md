@@ -49,14 +49,5 @@
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Divider"/><br>
 
 # 📊 GitHub 2024 Rocks:
-<table style="width:100%; table-layout:fixed;">
-  <tr>
-    <td style="width:50%; padding: 10px; box-sizing: border-box;">
-      <video class="video-player" autoplay loop muted>
-        <source src="assets/dpvasani.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
+
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Divider"/><br>
